@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Playwright browser session (contains your WhatsApp login – never commit)
+whatsapp_sender/.session/
+
+# Logs & sensitive data
+whatsapp_sender/sent_log.csv
+whatsapp_sender/contacts.csv
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

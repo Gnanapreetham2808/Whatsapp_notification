@@ -1,0 +1,12 @@
+Hi {name},
+
+We have scheduled your pickup at *{pickup_location}*.
+
+🕐 Pickup Time: {pickup_time}
+📍 Location: {maps_link}
+
+Please be ready 5 minutes before your scheduled time.
+
+If you have any questions, feel free to reach out.
+
+Thank you!
